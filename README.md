@@ -40,7 +40,7 @@ Execute the program using runserver command.
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="4" border="5" bgcolor="aqua">
-<caption><b>SLOT TIMETABLE - Pathakamuri Narendra (212221040117)</b></caption>
+<caption><b>SLOT TIMETABLE - Srinithi Muthukumar (24010166)</b></caption>
 <tr align="center">
 	<th bgcolor="yellow">Day/Time</th>
 	<th bgcolor="yellow">Monday</th>
